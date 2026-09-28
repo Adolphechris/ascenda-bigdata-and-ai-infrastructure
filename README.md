@@ -9,6 +9,6 @@ Bienvenue dans mon laboratoire **Big Data & Infrastructure pour l'Intelligence A
 
 ## 🗂️ Structure Prévue
 
--  : Clusters Kafka, Apache Spark, bases de données vectorielles (Pinecone/Qdrant).
--  : Déploiement de modèles LLM en production, GPU Orchestration.
--  : Pipelines ETL/ELT résilients et monitoring de données.
+- `00-distributed-systems/` : Clusters Kafka, Apache Spark, bases de données vectorielles (Pinecone/Qdrant).
+- `01-ai-pipeline-integration/` : Déploiement de modèles LLM en production, GPU Orchestration.
+- `02-data-engineering/` : Pipelines ETL/ELT résilients et monitoring de données.
